@@ -19,7 +19,7 @@
 **Thoughts:** Starting a project is dauntring when you have little experience. Knowing where and what to start has been a major area for personal developement on my behalf. I feel this project is one I have a good idea on what I want to have and therefore felt instantaneous progress.
 
 **Link to work:** 
-[Portfolio of Heath Burton](https://portfolio-rubickdev.herokuapp.com/)
+1. [Portfolio of Heath Burton](https://portfolio-rubickdev.herokuapp.com/)
 
 
 ### --- Day 3: Tuesday 20th March, 2018 --- ###
@@ -29,7 +29,7 @@
 **Thoughts**: Put in the structure of the website (Navbar, Jumbotron, Divs and backgrouds) Also completed the content of the page including searching for images for the icons on the page. Also researched scrolling images code to add a carousel feature on the page of my previous work(This took some time).  
 
 **Link to work:** 
-[Portfolio of Heath Burton](https://portfolio-rubickdev.herokuapp.com/)
+1. [Portfolio of Heath Burton](https://portfolio-rubickdev.herokuapp.com/)
 
 
 ### --- Day 4 Wednesday 21st March, 2018 --- ###
@@ -39,7 +39,7 @@
 **Thoughts**: Put the final touches of the pages functionality together, i.e the clickable social media links, tested the functionality and made sure the right CSS was applied for the various screen sizes. The absolute and relative positioning feature introduced through the CSS of the carsousel was a massive learning curve and where I spent the majority of my time. 
 
 **Link to work:** 
-[Portfolio of Heath Burton](https://portfolio-rubickdev.herokuapp.com/)
+1. [Portfolio of Heath Burton](https://portfolio-rubickdev.herokuapp.com/)
 
 
 ### --- Day 5 Thursday 22nd March, 2018 --- ###
@@ -49,8 +49,8 @@
 **Thoughts**: A lot of stuff I had done previously but a few new concepts and a few that needed cementing into the memory bank. Starting to get to a point in the course content that is challenging and where I am learning again.
 
 **Link to work:** 
-[Basic JavaScript](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
-[Using Objects for Lookups](https://www.freecodecamp.org/challenges/using-objects-for-lookups)
+1. [Basic JavaScript](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+2. [Using Objects for Lookups](https://www.freecodecamp.org/challenges/using-objects-for-lookups)
 
 
 ### --- Day 6 Friday 23rd March, 2018 --- ###
@@ -60,8 +60,8 @@
 **Thoughts**: Into content that is a bit hazey so really starting to enjoy this course and putting in a lot of research outside of the course to make sure I fully understand the content. i.e MDN.com
 
 **Link to work:** 
-[Basic JavaScript](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
-[MDN](https://developer.mozilla.org/en-US/)
+1. [Basic JavaScript](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+2. [MDN](https://developer.mozilla.org/en-US/)
 
 
 ### --- Day 7 Saturday 24th March, 2018 --- ###
@@ -71,8 +71,8 @@
 **Thoughts**: Objects section was familiar and the usual learning and filling gaps on more programming skills. The Algorithms was the part I was looking forward to and the expected 50 hours was something I wanted to beat without cheating. The first two took me over 5 hours so I think I am going to struggle however this is what I was looking for as I learn best under doing rather than listening.
 
 **Link to work:** 
-[Object Oriented and Functional Programming](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
-[Basic Algorithm Scripting](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+1. [Object Oriented and Functional Programming](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+2. [Basic Algorithm Scripting](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
 
 
 ### --- Day 8 Sunday 25th March, 2018 --- ###
@@ -82,7 +82,7 @@
 **Thoughts**: Had a busy day with family and only had time to meet my obligation watching videos and reading material. (Medium and Dylan Israel-360 tutorials)
 
 **Link to work:** 
-[Dylan Israel](https://www.youtube.com/channel/UC5Wi_NYysX-LfcqT3Hq9Faw)
+1. [Dylan Israel](https://www.youtube.com/channel/UC5Wi_NYysX-LfcqT3Hq9Faw)
 
 
 ### --- Day 9 Monday 26th March, 2018 --- ###
@@ -92,7 +92,7 @@
 **Thoughts**: Having to do a lot of background research to understand fully all the methods and options to carry out the Algorithm. Enjoying the learning feeling!
 
 **Link to work:** 
-[Algorithms - Excercise 2-3](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+1. [Algorithms - Excercise 2-3](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
 
 
 ### --- Day 10 Tuesday 27th March, 2018 --- ###
@@ -102,7 +102,7 @@
 **Thoughts**: Was very excited to complete the Return the largest number task as I completed it without any influence. Feeling good progress. FCC is awesome!
 
 **Link to work:** 
-[Algorithms - Excercise 4-6](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+1. [Algorithms - Excercise 4-6](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
 
 
 ### --- Day 11 Wednesday 28th March, 2018 --- ###
@@ -112,7 +112,7 @@
 **Thoughts**: Today was a tough one, I spent a lot of time on these Algos. The substr() command was a new thing for me so spent the bulk of the time researching this aspect and the Truncate task took a lot of research also!
 
 **Link to work:** 
-[Algorithms - Excercise 7-9](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+1. [Algorithms - Excercise 7-9](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
 
 
 ### --- Day 12 Thursday 29th March, 2018 --- ###
@@ -122,7 +122,7 @@
 **Thoughts**: These Algorithms have been tough and had to get up early due to a medical appiontment, took my surfboard to get some early mornging surf but the waves were huge. Biggest I have ever seen so I took the entire morning off driving the coast to find the best waves. Chunky was a challenging Algo and I spent a lot of time researching how to complet it in the afternoon.
 
 **Link to work:** 
-[Algorithms - Excercise 10](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+1. [Algorithms - Excercise 10](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
 
 
 ### --- Day 13 Friday 30th March, 2018 --- ###
@@ -132,7 +132,7 @@
 **Thoughts**: Couple of easier ones to start then Falsy Bouncer I needed to invest a lot of time in researching the result. Got it and started working on the one I have found the hardest so far - Seek and Destroy! Struggling with the Filter(); method!
 
 **Link to work:** 
-[Algorithms - Excercise 11 - 13](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+1. [Algorithms - Excercise 11 - 13](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
 
 
 
