@@ -127,7 +127,7 @@
 
 ### --- Day 13 Friday 30th March, 2018 --- ###
 
-**Today's Progress**: Aftyer yesterdays sidetrack I completed 3 algorithms and was stuck on a fourth for 3 hours. Completed (Slasher Flick, Mutations and Falsy Bouncer) - 10 hours of study.
+**Today's Progress**: After yesterdays sidetrack I completed 3 algorithms and was stuck on a fourth for 3 hours. Completed (Slasher Flick, Mutations and Falsy Bouncer) - 10 hours of study.
 
 **Thoughts**: Couple of easier ones to start then Falsy Bouncer I needed to invest a lot of time in researching the result. Got it and started working on the one I have found the hardest so far - Seek and Destroy! Struggling with the Filter(); method!
 
@@ -135,18 +135,25 @@
 1. [Algorithms - Excercise 11 - 13](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
 
 
-
-
-
-Currently Up to here
 ### --- Day 14 Saturday 31st March, 2018 --- ###
 
-**Today's Progress**: I was still stuck on Seek and Destroy I was refusing to cheat on this one,
+**Today's Progress**: Completed 2 Algorithms (Seek and Destroy and Where Do I Belong?) 5 hours of study
 
-**Thoughts**: Seek and Destroy! Finally got that Ahaaa moment with the Filter(); method! I did end up cheating by checking the spolier code however I was happy that all I needed to do was change one line of code on my solution to solve the problem, which was the part that gave me the Ahaa moment.
+**Thoughts**: Seek and Destroy! Finally got that Ahaaa moment with the Filter(); method! I did end up cheating by checking the spolier code however I was happy that all I needed to do was change one line of code on my solution to solve the problem, which was the part that gave me the Ahaa moment. Also completed "Where do I belong" after a small amount of research. Started on the final Algorithm before moving onto JSON tomorrow.
 
 **Link to work:** 
-[Algorithms - Excercise 8-9](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+1. [Algorithms - Excercise 14-15](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+
+
+### --- Day 15 Sunday 1st April, 2018 --- ###
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link to work:** 
+1. [Algorithms - Excercise 16](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+2. [JSON, API's & AJAX](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
 
 
 ############# END OF LOG #############
