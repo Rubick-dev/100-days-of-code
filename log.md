@@ -147,6 +147,17 @@
 
 ### --- Day 15 Sunday 1st April, 2018 --- ###
 
+**Today's Progress**: Completed the final algorithm of the basic algo's and the JSON, API's & Ajax lessons. (Caesars Cipher) 5 hours 
+
+**Thoughts**: The Cipher challenge was a step up in difficulty, however I made good progress on it. I had to peek at the way to switch the numbers but had a good do at it at first. My code was almost identical to the solutions once I finished. However I got stuck for a longer than necessary period because I had && instead of || in my if statement!!!!! Worked that out myself and that felt good.
+
+**Link to work:** 
+1. [Algorithms - Excercise 16](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+2. [JSON, API's & AJAX](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+
+
+### --- Day 16 Monday 2nd April, 2018 --- ###
+
 **Today's Progress**: 
 
 **Thoughts**:
