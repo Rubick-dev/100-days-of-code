@@ -137,7 +137,7 @@
 
 ### --- Day 14 Saturday 31st March, 2018 --- ###
 
-**Today's Progress**: Completed 2 Algorithms (Seek and Destroy and Where Do I Belong?) 5 hours of study
+**Today's Progress**: Completed 2 Algorithms (Seek and Destroy and Where Do I Belong?) - 5 hours of study
 
 **Thoughts**: Seek and Destroy! Finally got that Ahaaa moment with the Filter(); method! I did end up cheating by checking the spolier code however I was happy that all I needed to do was change one line of code on my solution to solve the problem, which was the part that gave me the Ahaa moment. Also completed "Where do I belong" after a small amount of research. Started on the final Algorithm before moving onto JSON tomorrow.
 
@@ -147,7 +147,7 @@
 
 ### --- Day 15 Sunday 1st April, 2018 --- ###
 
-**Today's Progress**: Completed the final algorithm of the basic algo's and the JSON, API's & Ajax lessons. (Caesars Cipher) 5 hours 
+**Today's Progress**: Completed the final algorithm of the basic algo's and the JSON, API's & Ajax lessons. (Caesars Cipher) - 5 hours 
 
 **Thoughts**: The Cipher challenge was a step up in difficulty, however I made good progress on it. I had to peek at the way to switch the numbers but had a good do at it at first. My code was almost identical to the solutions once I finished. However I got stuck for a longer than necessary period because I had && instead of || in my if statement!!!!! Worked that out myself and that felt good.
 
@@ -158,6 +158,17 @@
 
 ### --- Day 16 Monday 2nd April, 2018 --- ###
 
+**Today's Progress**: Started working on the Quotes challenge from FreeCodeCamp. Built the welcome page and started research on the logic and web design. - 10 hours of web development and research.
+
+**Thoughts**: Spent far too long on the HTML and CSS, something that I should be doing last anyway. I learnt about prioritisation of work if nothing else on this frustrating day. Working on getting a key from the API site as it doesn't seem to be striaght forward on how to get that generated. Also I want to build a guessing interaction into the project to make it a little more interactive.
+
+**Link to work:** 
+1. [Intermediate Front End Dev Projects - Quotes API](https://www.freecodecamp.org/challenges/build-a-random-quote-machine)
+2. [Github Repository of Quotes project](https://github.com/Rubick-dev/Real-or-Movie-Quote-Guessing-Game)
+
+
+### --- Day 17 Tuesday 3rd April, 2018 --- ###
+
 **Today's Progress**: 
 
 **Thoughts**:
@@ -165,7 +176,6 @@
 **Link to work:** 
 1. [Algorithms - Excercise 16](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
 2. [JSON, API's & AJAX](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
-
 
 ############# END OF LOG #############
 
