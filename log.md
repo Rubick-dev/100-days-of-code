@@ -169,6 +169,17 @@
 
 ### --- Day 17 Tuesday 3rd April, 2018 --- ###
 
+**Today's Progress**: Connected my quotes app through Ajax and got the data stored in variables. - 5 hours 
+
+**Thoughts**: Ajax and jQuery are fairly new to me so it was challenging to get my head around all the parts I needed to understand to build the core backend processing of it. I made significant progress after about 3 hours of research and about 2 hours of coding. Just need to tiudy it uo pa bit now from a presentation point of view and add a bit of the extra functionality which will turn it into a game.
+
+**Link to work:** 
+1. [Intermediate Front End Dev Projects - Quotes API](https://www.freecodecamp.org/challenges/build-a-random-quote-machine)
+2. [Github Repository of Quotes project](https://github.com/Rubick-dev/Real-or-Movie-Quote-Guessing-Game)
+
+
+### --- Day 18 Wednesday 4th April, 2018 --- ###
+
 **Today's Progress**: 
 
 **Thoughts**:
@@ -176,6 +187,7 @@
 **Link to work:** 
 1. [Algorithms - Excercise 16](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
 2. [JSON, API's & AJAX](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+
 
 ############# END OF LOG #############
 
