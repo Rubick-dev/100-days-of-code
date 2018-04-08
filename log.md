@@ -1,4 +1,3 @@
-##------------# 100 Days Of Code - Log #------------##
 
 ### --- Day 22 Sunday 8th April, 2018 --- ###
 
@@ -11,13 +10,18 @@
 2. [JSON, API's & AJAX](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
 
 
-############# END OF LOG #############
+
+##------------# 100 Days Of Code - Log #------------##
+
+##############################################
+############# START OF DEV DIARY #############
+##############################################
 
 ### --- Day 21 Saturday 7th April, 2018 --- ###
 
 **Today's Progress**: Started working on the Weather API application from FCC Int challenges. - 2 hours of research
 
-**Thoughts**: Wire framed the solution, researched the API's available. Created the boiler plates of the files I will need in the application. Still not 100% with linking to API's so spent a big chunk of time reviewing the JSON, API and AJAX moduile of FCC.
+**Thoughts**: Designed the content of the page and wire framed the solution. Researched the API's available. Created the boiler plates of the files I will need in the application. Still not 100% with linking to API's so spent a big chunk of time reviewing the JSON, API and AJAX module of FCC.
 
 **Link to work:** 
 1. [Intermediate Front End Dev Projects - Quotes API](https://www.freecodecamp.org/challenges/show-the-local-weather)
@@ -232,5 +236,6 @@
 1. [A Map to Learn to Code and Become a Software Engineer](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
 2. [A Tribute To Thomas Burton](https://tribute-thomasburton.herokuapp.com/)
 
-############# START OF DEV DIARY #############
+############# END OF LOG #############
+
 
