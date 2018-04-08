@@ -1,6 +1,6 @@
 ##------------# 100 Days Of Code - Log #------------##
 
-### --- Day 21 Saturday 7th April, 2018 --- ###
+### --- Day 22 Sunday 8th April, 2018 --- ###
 
 **Today's Progress**: 
 
@@ -12,6 +12,16 @@
 
 
 ############# END OF LOG #############
+
+### --- Day 21 Saturday 7th April, 2018 --- ###
+
+**Today's Progress**: Started working on the Weather API application from FCC Int challenges. - 2 hours of research
+
+**Thoughts**: Wire framed the solution, researched the API's available. Created the boiler plates of the files I will need in the application. Still not 100% with linking to API's so spent a big chunk of time reviewing the JSON, API and AJAX moduile of FCC.
+
+**Link to work:** 
+1. [Intermediate Front End Dev Projects - Quotes API](https://www.freecodecamp.org/challenges/show-the-local-weather)
+2. [JSON, API's & AJAX](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
 
 
 ### --- Day 20 Friday 6th April, 2018 --- ###
