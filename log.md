@@ -1,19 +1,40 @@
 
-### --- Day 22 Sunday 8th April, 2018 --- ###
+### --- Day 24 Tuesday 10th April, 2018 --- ###
 
-**Today's Progress**: 
-
+**Today's Progress**:
+ 
 **Thoughts**:
 
 **Link to work:** 
-1. [Algorithms - Excercise 16](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
-2. [JSON, API's & AJAX](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
+1. [Intermediate Front End Dev Projects - Local Weather Conditions](https://www.freecodecamp.org/challenges/show-the-local-weather)
+2. [Github - Real-or-Movie-Quote-Guessing-Game](https://github.com/Rubick-dev/Real-or-Movie-Quote-Guessing-Game)
 
 
 
 ##------------# 100 Days Of Code - Log #------------##
 
 ############# START OF DEV DIARY #############
+
+### --- Day 23 Monday 9th April, 2018 --- ###
+
+**Today's Progress**: Focused on the Ajax call and the logic to manipulate the DOM with the API data for the current location weather conditions. - 4 hours of coding.
+ 
+**Thoughts**: It feels like all the pieces to the puzzle are coming together on this project, took a while to work out all the moving parts. Now its just down to making it look pretty and putting the right information into the page from the API call. Goal is to be finished the website completely by tomorrow ans starting the next project.
+
+**Link to work:** 
+1. [Intermediate Front End Dev Projects - Local Weather Conditions](https://www.freecodecamp.org/challenges/show-the-local-weather)
+2. [Github - Real-or-Movie-Quote-Guessing-Game](https://github.com/Rubick-dev/Real-or-Movie-Quote-Guessing-Game)
+
+
+### --- Day 22 Sunday 8th April, 2018 --- ###
+
+**Today's Progress**: Focused on the JavaScript and logic of the application. Started on the Navigator.geolocation side of things. 3 hours of development and research.
+
+**Thoughts**: Got stuck on the navigator side of things, something new which I havent done before. Slowing my progress right down unfortuantely. Got it working in the end.
+
+**Link to work:** 
+1. [Intermediate Front End Dev Projects - Local Weather Conditions](https://www.freecodecamp.org/challenges/show-the-local-weather)
+
 
 ### --- Day 21 Saturday 7th April, 2018 --- ###
 
@@ -22,7 +43,7 @@
 **Thoughts**: Designed the content of the page and wire framed the solution. Researched the API's available. Created the boiler plates of the files I will need in the application. Still not 100% with linking to API's so spent a big chunk of time reviewing the JSON, API and AJAX module of FCC.
 
 **Link to work:** 
-1. [Intermediate Front End Dev Projects - Quotes API](https://www.freecodecamp.org/challenges/show-the-local-weather)
+1. [Intermediate Front End Dev Projects - Local Weather Conditions](https://www.freecodecamp.org/challenges/show-the-local-weather)
 2. [JSON, API's & AJAX](https://www.freecodecamp.org/map-aside#collapseFront-End-Development-Certification)
 
 
