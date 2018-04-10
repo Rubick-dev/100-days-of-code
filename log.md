@@ -1,12 +1,12 @@
 
-### --- Day 24 Tuesday 10th April, 2018 --- ###
+### --- Day 25 Wednesday 11th April, 2018 --- ###
 
 **Today's Progress**:
  
 **Thoughts**:
 
 **Link to work:** 
-1. [Intermediate Front End Dev Projects - Local Weather Conditions](https://www.freecodecamp.org/challenges/show-the-local-weather)
+1. [Intermediate Front End Dev Projects - Wikipedia Viewer](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
 2. [Github - Real-or-Movie-Quote-Guessing-Game](https://github.com/Rubick-dev/Real-or-Movie-Quote-Guessing-Game)
 
 
@@ -14,6 +14,17 @@
 ##------------# 100 Days Of Code - Log #------------##
 
 ############# START OF DEV DIARY #############
+
+### --- Day 24 Tuesday 10th April, 2018 --- ###
+
+**Today's Progress**: Completed the Current Wheather API and Geo Location linked website and added it to my portfolio. - 6 hours of coding
+ 
+**Thoughts**: Goal hit success and the app is tested and working as intended. Really today was about getting the toggle to work and that was simple with a few global variables and the Celsius to Fahrenheit math algorithm. Also prettied it up with some CSS. Onto the next challenge tomorrow.
+
+**Link to work:** 
+1. [Intermediate Front End Dev Projects - Local Weather Conditions](https://www.freecodecamp.org/challenges/show-the-local-weather)
+2. [Github - Real-or-Movie-Quote-Guessing-Game](https://github.com/Rubick-dev/Real-or-Movie-Quote-Guessing-Game)
+
 
 ### --- Day 23 Monday 9th April, 2018 --- ###
 
@@ -23,7 +34,7 @@
 
 **Link to work:** 
 1. [Intermediate Front End Dev Projects - Local Weather Conditions](https://www.freecodecamp.org/challenges/show-the-local-weather)
-2. [Github - Real-or-Movie-Quote-Guessing-Game](https://github.com/Rubick-dev/Real-or-Movie-Quote-Guessing-Game)
+2. [Github - Weather-Me-Up](https://github.com/Rubick-dev/weathermeup)
 
 
 ### --- Day 22 Sunday 8th April, 2018 --- ###
