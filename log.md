@@ -23,7 +23,7 @@
 
 **Link to work:** 
 1. [Intermediate Front End Dev Projects - Local Weather Conditions](https://www.freecodecamp.org/challenges/show-the-local-weather)
-2. [Github - Real-or-Movie-Quote-Guessing-Game](https://github.com/Rubick-dev/Real-or-Movie-Quote-Guessing-Game)
+2. [Official Site - WeatherMeUp](https://fccweathermeup.herokuapp.com/)
 
 
 ### --- Day 23 Monday 9th April, 2018 --- ###
