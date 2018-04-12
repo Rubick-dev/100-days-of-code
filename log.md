@@ -1,5 +1,4 @@
-
-### --- Day 25 Wednesday 11th April, 2018 --- ###
+### --- Day 27 Friday 13th April, 2018 --- ###
 
 **Today's Progress**:
  
@@ -10,10 +9,31 @@
 2. [Github - Real-or-Movie-Quote-Guessing-Game](https://github.com/Rubick-dev/Real-or-Movie-Quote-Guessing-Game)
 
 
-
 ##------------# 100 Days Of Code - Log #------------##
 
 ############# START OF DEV DIARY #############
+
+
+### --- Day 26 Thursday 12th April, 2018 --- ###
+
+**Today's Progress**: Started coding the logic and skeleton of the Wiki search challenge. - 7 hours of coding
+ 
+**Thoughts**: Got stuck on CORS details and definitely need to go back over that to understand more. REally happy with the progreess overall though and now have the data returning in an object so just need to display it on the page and do some testing / fine tuning. Goal is to be finsihed tomorrow.
+
+**Link to work:** 
+1. [Intermediate Front End Dev Projects - Wikipedia Viewer](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
+2. [Github - WikipediaSearch](https://github.com/Rubick-dev/wikipediasearch)
+
+
+### --- Day 25 Wednesday 11th April, 2018 --- ###
+
+**Today's Progress**: Started the Reearch into the Wikipedia Search App. - 2 hours of research
+ 
+**Thoughts**: Looked into not using jQuery for Ajax but was wasting a lot of time researchjing so moved back to jQuery.
+
+**Link to work:** 
+1. [Intermediate Front End Dev Projects - Wikipedia Viewer](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
+
 
 ### --- Day 24 Tuesday 10th April, 2018 --- ###
 
