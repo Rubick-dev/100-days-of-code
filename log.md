@@ -16,7 +16,7 @@
 ### --- Day 28 Saturday 14th April, 2018 --- ###
 
 
-**Today's Progress**: Finsihed off the media query for mobile and uploaded the final version of the wiki search tool to heroku. Also updarted the portfolio carousel to include the page as an example. - 5 hours of coding.
+**Today's Progress**: Finished off the media query for mobile and uploaded the final version of the wiki search tool to heroku. Also updarted the portfolio carousel to include the page as an example. - 5 hours of coding.
  
 **Thoughts**: Just a lot of tidying up and also reviewed the next development challenge. 
 
