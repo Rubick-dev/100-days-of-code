@@ -1,4 +1,4 @@
-### --- Day 27 Friday 13th April, 2018 --- ###
+### --- Day 29 Sunday 15th April, 2018 --- ###
 
 **Today's Progress**:
  
@@ -12,6 +12,29 @@
 ##------------# 100 Days Of Code - Log #------------##
 
 ############# START OF DEV DIARY #############
+
+### --- Day 28 Saturday 14th April, 2018 --- ###
+
+
+**Today's Progress**: Finsihed off the media query for mobile and uploaded the final version of the wiki search tool to heroku. Also updarted the portfolio carousel to include the page as an example. - 5 hours of coding.
+ 
+**Thoughts**: Just a lot of tidying up and also reviewed the next development challenge. 
+
+**Link to work:** 
+1. [Intermediate Front End Dev Projects - Wikipedia Viewer](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
+2. [Wiki Search Tool - Live version](https://wikisearchtool.herokuapp.com/)
+3. [Intermediate Front End Dev Projects - Twitch.TV API](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
+
+
+### --- Day 27 Friday 13th April, 2018 --- ###
+
+**Today's Progress**: Completed the final draft of fullscreen version, including a lot of CSS. - 6 hours of coding and research.
+ 
+**Thoughts**: Spent a lot of time on positioning the pages on full screen version as well as the buttons. I wanted to do something less generic as i usually work on Bootstrap buttons. Really enjoyed learning about differnet effects.
+
+**Link to work:** 
+1. [Intermediate Front End Dev Projects - Wikipedia Viewer](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
+2. [Github - Real-or-Movie-Quote-Guessing-Game](https://github.com/Rubick-dev/Real-or-Movie-Quote-Guessing-Game)
 
 
 ### --- Day 26 Thursday 12th April, 2018 --- ###
