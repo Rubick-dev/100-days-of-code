@@ -20,7 +20,7 @@
 **Thoughts**: Found this one the most challenging project to date. Due to the helix API being relatively new there was very little resources of information about it. Eventually tracked down everything I needed and am able to display the data i need.
 
 **Link to work:** 
-1. [Intermediate Front End Dev Projects - Wikipedia Viewer](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
+1. [Intermediate Front End Dev Projects - Twitch.TV API](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
 2. [Github - TwitchTV API](https://github.com/Rubick-dev/TwitchTVAPI)
 
 
