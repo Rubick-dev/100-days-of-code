@@ -1,4 +1,4 @@
-### --- Day 29 Sunday 15th April, 2018 --- ###
+### --- Day 31 Tuesday 17th April, 2018 --- ###
 
 **Today's Progress**:
  
@@ -10,11 +10,31 @@
 
 
 ##------------# 100 Days Of Code - Log #------------##
+############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-############# START OF DEV DIARY #############
+
+### --- Day 30 Monday 16th April, 2018 --- ###
+
+**Today's Progress**: Produced a API key and started to build out the API ajax code. Discovered where to get each piece of information required to complete the user stories. Did a wireframe design of the page. Started to work out the logic for displaying the information. uploaded the first draft of the project to github. - 10 hours of research and coding.
+ 
+**Thoughts**: Found this one the most challenging project to date. Due to the helix API being relatively new there was very little resources of information about it. Eventually tracked down everything I needed and am able to display the data i need.
+
+**Link to work:** 
+1. [Intermediate Front End Dev Projects - Wikipedia Viewer](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
+2. [Github - TwitchTV API](https://github.com/Rubick-dev/TwitchTVAPI)
+
+
+### --- Day 29 Sunday 15th April, 2018 --- ###
+
+**Today's Progress**: Started the research into building the TwitchTV API project. The API that FreeCodeCamp has asked me to use will be depricated by the end of the year so I have taken the challenge to use the new Helix API. Spent the entire day researching how to interact with it. - 6 hours of research.
+ 
+**Thoughts**: The new API does not send back the same data as the oriignal and therfore has made the project a lot more complex than the intermediate project requested. There needs to be two Ajax calls and you must use a key in the header. 
+
+**Link to work:** 
+1. [Intermediate Front End Dev Projects - Twitch.TV API](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
+
 
 ### --- Day 28 Saturday 14th April, 2018 --- ###
-
 
 **Today's Progress**: Finished off the media query for mobile and uploaded the final version of the wiki search tool to heroku. Also updarted the portfolio carousel to include the page as an example. - 5 hours of coding.
  
