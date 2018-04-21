@@ -14,9 +14,9 @@
 
 ### --- Day 35 Saturday 21st April, 2018 --- ###
 
-**Today's Progress**:
+**Today's Progress**: Completed the TwitchTV challenge of FreeCodeCamp which moved me onto thje intermediate Challenges. - 9 hours coding and study
  
-**Thoughts**:
+**Thoughts**: Having issues with the Ajax calls but the page works on first load. Have put up my first stackoverflow question looking for help. Used my first template literal to display new code and data returned from both Ajax calls.
 
 **Link to work:** 
 1. [Intermediate Front End Dev Projects - Twitch.TV API](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
