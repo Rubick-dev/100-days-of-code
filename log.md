@@ -1,16 +1,67 @@
-### --- Day 31 Tuesday 17th April, 2018 --- ###
+### --- Day 36 Sunday 22nd April, 2018 --- ###
 
 **Today's Progress**:
  
 **Thoughts**:
 
 **Link to work:** 
-1. [Intermediate Front End Dev Projects - Wikipedia Viewer](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer)
-2. [Github - Real-or-Movie-Quote-Guessing-Game](https://github.com/Rubick-dev/Real-or-Movie-Quote-Guessing-Game)
+1. [Intermediate Front End Dev Projects - Twitch.TV API](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
+2. [Github - TwitchTV API](https://github.com/Rubick-dev/TwitchTVAPI)
 
 
 ##------------# 100 Days Of Code - Log #------------##
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
+
+### --- Day 35 Saturday 21st April, 2018 --- ###
+
+**Today's Progress**:
+ 
+**Thoughts**:
+
+**Link to work:** 
+1. [Intermediate Front End Dev Projects - Twitch.TV API](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
+2. [Github - TwitchTV API](https://github.com/Rubick-dev/TwitchTVAPI)
+
+
+### --- Day 34 Friday 20th April, 2018 --- ###
+
+**Today's Progress**: Worked on the Twitch API project trying various things to get the data out of twitch. Had another Job interview however it was a recruitment role. - Just 2 hours today
+ 
+**Thoughts**: Need to find a mentor to bounce ideas off and get some guidance when i get stuck like this. It is taking too much time to solve problems due to this lack of support. I have decided to spend more time looking for someone to help me with coding.
+
+**Link to work:** 
+1. [Intermediate Front End Dev Projects - Twitch.TV API](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
+
+
+### --- Day 33 Thursday 19th April, 2018 --- ###
+
+**Today's Progress**: Lazy day - 2 hours of reading blogs and researching 
+ 
+**Thoughts**: Always interesting subjects on latest trends and uses of code.
+
+**Link to work:** 
+1. [Medium Blogs](https://medium.com/)
+
+
+### --- Day 32 Wednesday 18th April, 2018 --- ###
+
+**Today's Progress**: Prepared for then attended the afternoon Web Developer interview for a local Software companmy. -4 hours of study on regular CSS, HTML and JS interview questions.
+
+**Thoughts**: I assumed that the interviewers had reviewed my protfolio of work here on github and then decided to interview me. I really thought I had a chance of securing the job after only calling up to see if i could get some mentorship or even a bit of experience working on some easier projects or bug fixing. Unfortunately as an ex recruiter of 9 years I could tell the interviwer had made up his mind at first sight of me. You see I am a little bit older than your average junior developer and I there were indications that he was a little ageist. He also mentioned that he only briefly checked over my proftfolio and had no idea about my capability level. I really felt in an unusual position of being judged negatively due to my experience and age, l also felt belittled. This resulted in a level of pressure that I am not used to in interviews as an experiecned recruiter most interviews result in offers for me. This ultimately led to my mistakes throughout the interview where I screwed up hard with some even emberassing things that I said. I only blame myself as I let someone else influence my performance and I am in control of my actions. I have learnt a lot from this experience and  from my mistakes. These wont happen next time and I suer as hell wont let people like this effect the end goal of transfering my career into the wonderful world of coding.
+
+**Link to work:** 
+1. [Front-End-Dev Interview Questions](https://h5bp.github.io/Front-end-Developer-Interview-Questions/)
+
+
+### --- Day 31 Tuesday 17th April, 2018 --- ###
+
+**Today's Progress**: Worked on the logic for the twitchTV API, focusing on getting the information displayed on the screen. I also applied for my first Web dev role. - 5 hours of coding.
+ 
+**Thoughts**: Spent the morning trying to work out how to display information returned into an object and how to iterate over it and get it displayed on the screen as per user story requirements. Without anyone to bounce ideas off it is taking a lot of time. The company I applied for called back after reviewing my portfolio and asked me to come into an interview the following day. Excited to have my first Job Interview as a web developer.
+
+**Link to work:** 
+1. [Intermediate Front End Dev Projects - Twitch.TV API](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
+2. [Github - TwitchTV API](https://github.com/Rubick-dev/TwitchTVAPI)
 
 
 ### --- Day 30 Monday 16th April, 2018 --- ###
