@@ -1,20 +1,60 @@
-### --- Day 36 Sunday 22nd April, 2018 --- ###
+### --- Day 39 Wednesday 25th April, 2018 --- ###
 
-**Today's Progress**:
+**Today's Progress**: 
  
 **Thoughts**:
 
 **Link to work:** 
-1. [Intermediate Front End Dev Projects - Twitch.TV API](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
-2. [Github - TwitchTV API](https://github.com/Rubick-dev/TwitchTVAPI)
+1. [Intermediate Algorithm Scripting - Sum All Numbers in a Range](https://www.freecodecamp.org/challenges/sum-all-numbers-in-a-range)
+2. [Intermediate Algorithm Scripting - DNA-Pairing](https://www.freecodecamp.org/challenges/dna-pairing)
+3. [Intermediate Algorithm Scripting - Missing-Letters](https://www.freecodecamp.org/challenges/missing-letters)
+4. [Intermediate Algorithm Scripting - Boolean-Checker](https://www.freecodecamp.org/challenges/boo-who)
+5. [Intermediate Algorithm Scripting - Sorted-Union](https://www.freecodecamp.org/challenges/sorted-union)
+
 
 
 ##------------# 100 Days Of Code - Log #------------##
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
+### --- Day 38 Tuesday 24th April, 2018 --- ###
+
+**Today's Progress**: Big day today as I got through 5 Intermediate Algorithym challenges. 7 hours of study.
+ 
+**Thoughts**: Rreally enjoyed the pig latin, used minimal research to get the solution. With the DNA pairing I thought a Switch would be the best option and when i checked the hints it guided me that way and I ended up completing the project without any research or solution checking. What a forfilling day where I gained a lot of confidence due to some great solutions gained through a mix of my knowledge and research.
+
+**Link to work:** 
+1. [Intermediate Algorithm Scripting - PiG Latin](https://www.freecodecamp.org/challenges/pig-latin)
+2. [Intermediate Algorithm Scripting - DNA-Pairing](https://www.freecodecamp.org/challenges/dna-pairing)
+3. [Intermediate Algorithm Scripting - Missing-Letters](https://www.freecodecamp.org/challenges/missing-letters)
+4. [Intermediate Algorithm Scripting - Boolean-Checker](https://www.freecodecamp.org/challenges/boo-who)
+5. [Intermediate Algorithm Scripting - Sorted-Union](https://www.freecodecamp.org/challenges/sorted-union)
+
+### --- Day 37 Monday 23nd April, 2018 --- ###
+
+**Today's Progress**: Big day of study, got through 4 of the Algorythms - 8 hours of Study.
+ 
+**Thoughts**: These were quiete challenging but its really showing me how much I have learnt. The Roman Numerals challenge I got help with from the solution bbut the other three i reached the solution with minimal research and did no solution checking.
+
+**Link to work:** 
+1. [Intermediate Algorithm Scripting - Diff-Two-Arrays](https://www.freecodecamp.org/challenges/diff-two-arrays)
+2. [Intermediate Algorithm Scripting - Roman-Numerals](https://www.freecodecamp.org/challenges/roman-numeral-converter)
+3. [Intermediate Algorithm Scripting - Where-Art-Thou](https://www.freecodecamp.org/challenges/wherefore-art-thou)
+4. [Intermediate Algorithm Scripting - Search-and-Replace](https://www.freecodecamp.org/challenges/search-and-replace)
+
+
+### --- Day 36 Sunday 22nd April, 2018 --- ###
+
+**Today's Progress**: Short day of study today as spent some time with the GF. Moved onto the Intermediate Algorythms - 3 hours of study.
+ 
+**Thoughts**: Finally past the intermediate Web Dev challenges and onto Intrermediate Algorithms. Found the one I was on quiet difficult, I had to do a lot of research to get parts of it done. In the end a quick comparison check of a solution and mine were almost identical and I just needed to make a few changes to get it working.
+
+**Link to work:** 
+1. [Intermediate Algorithm Scripting - Sum All Numbers in a Range](https://www.freecodecamp.org/challenges/sum-all-numbers-in-a-range)
+
+
 ### --- Day 35 Saturday 21st April, 2018 --- ###
 
-**Today's Progress**: Completed the TwitchTV challenge of FreeCodeCamp which moved me onto thje intermediate Challenges. - 9 hours coding and study
+**Today's Progress**: Completed the TwitchTV challenge of FreeCodeCamp which moved me onto the intermediate Challenges. - 9 hours coding and study
  
 **Thoughts**: Having issues with the Ajax calls but the page works on first load. Have put up my first stackoverflow question looking for help. Used my first template literal to display new code and data returned from both Ajax calls.
 
