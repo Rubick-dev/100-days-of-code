@@ -14,6 +14,7 @@
 
 
 ##------------# 100 Days Of Code - Log #------------##
+
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
 ### --- Day 38 Tuesday 24th April, 2018 --- ###
