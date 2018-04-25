@@ -1,15 +1,17 @@
 ### --- Day 39 Wednesday 25th April, 2018 --- ###
 
-**Today's Progress**: 
+**Today's Progress**: Continued the intermediate algorithms on #freecodecamp. - 7 hours of study
  
-**Thoughts**:
+**Thoughts**: This was agreat day, there were two alogrithms that I didnt understand the math so I needed to research but my ideas were right. Got some out the way without even doing research so starting to feel all this study is paying off finally!
 
 **Link to work:** 
-1. [Intermediate Algorithm Scripting - Sum All Numbers in a Range](https://www.freecodecamp.org/challenges/sum-all-numbers-in-a-range)
-2. [Intermediate Algorithm Scripting - DNA-Pairing](https://www.freecodecamp.org/challenges/dna-pairing)
-3. [Intermediate Algorithm Scripting - Missing-Letters](https://www.freecodecamp.org/challenges/missing-letters)
-4. [Intermediate Algorithm Scripting - Boolean-Checker](https://www.freecodecamp.org/challenges/boo-who)
-5. [Intermediate Algorithm Scripting - Sorted-Union](https://www.freecodecamp.org/challenges/sorted-union)
+1. [Intermediate Algorithm Scripting - Convert-html-Entities](https://www.freecodecamp.org/challenges/convert-html-entities)
+2. [Intermediate Algorithm Scripting - Spinal-Tap-Case](https://www.freecodecamp.org/challenges/spinal-tap-case)
+3. [Intermediate Algorithm Scripting - Sum-All-Odd-Fibs](https://www.freecodecamp.org/challenges/sum-all-odd-fibonacci-numbers)
+4. [Intermediate Algorithm Scripting - Sum-All-Primes](https://www.freecodecamp.org/challenges/sum-all-primes)
+5. [Intermediate Algorithm Scripting - Smallest-Common-Multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
+6. [Intermediate Algorithm Scripting - Finders-Keepers](https://www.freecodecamp.org/challenges/finders-keepers)
+7. [Intermediate Algorithm Scripting - Drop-it](https://www.freecodecamp.org/challenges/drop-it)
 
 
 
