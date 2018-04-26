@@ -1,3 +1,23 @@
+### --- Day 40 Thursday 26th April, 2018 --- ###
+
+**Today's Progress**: Worked on converting my application from Bootstrap to the CSS Grid. I then completed the intermediate algorithms on #freecodecamp and then went back to the CSS grid upgrade. - 9 hours of study and coding.
+ 
+**Thoughts**: Got through the final 4 intermediate Algorithms and now have just the last advance algos and website challenges to complete. Scary times! CSS Grid is amazing, did my first branch to keep the master production working until the grid is completed.
+
+**Link to work:** 
+1. [Intermediate Algorithm Scripting - SteamRoller](https://www.freecodecamp.org/challenges/steamroller)
+2. [Intermediate Algorithm Scripting - Binary Agents](https://www.freecodecamp.org/challenges/binary-agents)
+3. [Intermediate Algorithm Scripting - Everything-be-True](https://www.freecodecamp.org/challenges/everything-be-true)
+4. [Intermediate Algorithm Scripting - Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
+5. [GitHub - TwitchTV API](https://github.com/Rubick-dev/TwitchTVAPI)
+
+
+
+
+##------------# 100 Days Of Code - Log #------------##
+
+############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
+
 ### --- Day 39 Wednesday 25th April, 2018 --- ###
 
 **Today's Progress**: Continued the intermediate algorithms on #freecodecamp. - 7 hours of study
@@ -13,11 +33,6 @@
 6. [Intermediate Algorithm Scripting - Finders-Keepers](https://www.freecodecamp.org/challenges/finders-keepers)
 7. [Intermediate Algorithm Scripting - Drop-it](https://www.freecodecamp.org/challenges/drop-it)
 
-
-
-##------------# 100 Days Of Code - Log #------------##
-
-############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
 ### --- Day 38 Tuesday 24th April, 2018 --- ###
 
