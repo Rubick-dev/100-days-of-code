@@ -1,8 +1,35 @@
-### --- Day 40 Thursday 26th April, 2018 --- ###
+##------------# 100 Days Of Code - Log #------------##  
+############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-**Today's Progress**: Worked on converting my application from Bootstrap to the CSS Grid. I then completed the intermediate algorithms on #freecodecamp and then went back to the CSS grid upgrade. - 9 hours of study and coding.
+### --- Day 45 Tuesday 2nd May, 2018 --- ###
+
+**Today's Progress**: 
  
-**Thoughts**: Got through the final 4 intermediate Algorithms and now have just the last advance algos and website challenges to complete. Scary times! CSS Grid is amazing, did my first branch to keep the master production working until the grid is completed.
+**Thoughts**: 
+
+**Link to work:** 
+1. [Advanced Algorithm Scripting - Validate-US-Phone-Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers)
+2. [Advanced Algorithm Scripting - Record-Collection](https://www.freecodecamp.org/challenges/record-collection)
+3. [GitHub - TwitchTV API](https://github.com/Rubick-dev/TwitchTVAPI)
+
+
+### --- Day 44 Monday 1st May, 2018 --- ###
+
+**Today's Progress**: 
+ 
+**Thoughts**: 
+
+**Link to work:** 
+1. [Advanced Algorithm Scripting - Validate-US-Phone-Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers)
+2. [Advanced Algorithm Scripting - Record-Collection](https://www.freecodecamp.org/challenges/record-collection)
+3. [GitHub - TwitchTV API](https://github.com/Rubick-dev/TwitchTVAPI)
+
+
+### --- Day 43 Sunday 29th April, 2018 --- ###
+
+**Today's Progress**: Short day due to family day. Focused on my portfolio particulalry on making my ReadMe files much more presentable and with more useful information to showcase my work. - 2 hours of work
+ 
+**Thoughts**: Worked out how to display images on readMe files in Github Readme files. Re-wrote a heap of 
 
 **Link to work:** 
 1. [Intermediate Algorithm Scripting - SteamRoller](https://www.freecodecamp.org/challenges/steamroller)
@@ -12,11 +39,42 @@
 5. [GitHub - TwitchTV API](https://github.com/Rubick-dev/TwitchTVAPI)
 
 
+### --- Day 42 Saturday 28th April, 2018 --- ###
+
+**Today's Progress**: Half day family day, spent the morning working on the advanced algorithms of #freecodecamp - 4 hours of study.
+ 
+**Thoughts**: These really are stepping up the difficulty level. The US phone number validation one really tested Regex knowledge, I was close to getting it right by myself but needed to check the solution to compare work. Was happy that it was close. 
+
+**Link to work:** 
+1. [Advanced Algorithm Scripting - Validate-US-Phone-Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers)
+2. [Advanced Algorithm Scripting - Record-Collection](https://www.freecodecamp.org/challenges/record-collection)
 
 
-##------------# 100 Days Of Code - Log #------------##
+### --- Day 41 Friday 27th April, 2018 --- ###
 
-############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
+**Today's Progress**: Completed the Scrimba course on CSS Grid and then the final touches of converting my TwitchTV application from Bootstrap to the CSS Grid. - Completed 7 hours of study and coding.
+ 
+**Thoughts**: CSS Grid is a game changer for layouts, so easy to do wireframes also. I easily solved problems with layout I was having and this makes the front end even more intuitive and easily updated. This also solved my problem with the page breaking on refresh.
+
+**Link to work:** 
+1. [TwitchTV API Project - Version 1.1 CSS Grid](https://github.com/Rubick-dev/TwitchTVAPI)
+2. [TwitchTV API - v1.1 Live Website](https://whoistwitchtvonline.herokuapp.com/)
+3. [Scrimba - The CSS Grid](https://scrimba.com/)
+
+
+### --- Day 40 Thursday 26th April, 2018 --- ###
+
+**Today's Progress**: Worked on converting my application from Bootstrap to the CSS Grid. I then completed the intermediate algorithms on #freecodecamp and then went back to the CSS grid upgrade. - 9 hours of study and coding.
+ 
+**Thoughts**: Got through the final 4 intermediate Algorithms and now have just the last advance algos and website challenges to complete. Scary times! CSS Grid is amazing, built it through my first github branch of the master so I can revert back if I dont like the end result.
+
+**Link to work:** 
+1. [Intermediate Algorithm Scripting - SteamRoller](https://www.freecodecamp.org/challenges/steamroller)
+2. [Intermediate Algorithm Scripting - Binary Agents](https://www.freecodecamp.org/challenges/binary-agents)
+3. [Intermediate Algorithm Scripting - Everything-be-True](https://www.freecodecamp.org/challenges/everything-be-true)
+4. [Intermediate Algorithm Scripting - Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
+5. [GitHub - TwitchTV API](https://github.com/Rubick-dev/TwitchTVAPI)
+
 
 ### --- Day 39 Wednesday 25th April, 2018 --- ###
 
@@ -46,6 +104,7 @@
 3. [Intermediate Algorithm Scripting - Missing-Letters](https://www.freecodecamp.org/challenges/missing-letters)
 4. [Intermediate Algorithm Scripting - Boolean-Checker](https://www.freecodecamp.org/challenges/boo-who)
 5. [Intermediate Algorithm Scripting - Sorted-Union](https://www.freecodecamp.org/challenges/sorted-union)
+
 
 ### --- Day 37 Monday 23nd April, 2018 --- ###
 
