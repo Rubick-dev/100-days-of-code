@@ -15,14 +15,13 @@
 
 ### --- Day 44 Monday 1st May, 2018 --- ###
 
-**Today's Progress**: 
+**Today's Progress**: Completed two FreeCodeCamp Advanced Algorithms - 6 hours of research and study.
  
-**Thoughts**: 
+**Thoughts**: Challenging content that could haven taken me days to resolve. Spent a lot of time researching reduce to understand how it exactly works. Didnt realise that it would iterate over multiple arrays and compare the returned array with the next until they are all done. Once that was understood I got through the two challenges fairly quickly with some confirming of my ideas.
 
 **Link to work:** 
-1. [Advanced Algorithm Scripting - Validate-US-Phone-Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers)
-2. [Advanced Algorithm Scripting - Record-Collection](https://www.freecodecamp.org/challenges/record-collection)
-3. [GitHub - TwitchTV API](https://github.com/Rubick-dev/TwitchTVAPI)
+1. [Advanced Algorithm Scripting - Symetrical-Difference](https://www.freecodecamp.org/challenges/symmetric-difference)
+2. [Advanced Algorithm Scripting - Exact-Change](https://www.freecodecamp.org/challenges/exact-change)
 
 
 ### --- Day 43 Sunday 29th April, 2018 --- ###
