@@ -1,16 +1,38 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-### --- Day 45 Tuesday 2nd May, 2018 --- ###
+### --- Day 47 Thursday 4th May, 2018 --- ###
 
 **Today's Progress**: 
  
 **Thoughts**: 
 
 **Link to work:** 
-1. [Advanced Algorithm Scripting - Validate-US-Phone-Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers)
-2. [Advanced Algorithm Scripting - Record-Collection](https://www.freecodecamp.org/challenges/record-collection)
-3. [GitHub - TwitchTV API](https://github.com/Rubick-dev/TwitchTVAPI)
+1. [Advanced Front-End Developer Challenges - JS-Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
+2. [GitHub - TwitchTV API](https://github.com/Rubick-dev/TwitchTVAPI)
+
+
+### --- Day 46 Wednesday 3rd May, 2018 --- ###
+
+**Today's Progress**: Completed the remaining advanced challenges on FreeCodeCamp. 10 hours of study and research.
+ 
+**Thoughts**: Had to do a fair bit of spoiler filled research to make sure I was on the right track as I didnt understand what was being asked of me. I understand why this is being asked as it is real world scenarios potentially or when in a role you will get minimal info and need to work with it.
+
+**Link to work:** 
+1. [Advanced Algorithm Scripting - No-Repeat-Please](https://www.freecodecamp.org/challenges/no-repeats-please)
+2. [Advanced Algorithm Scripting - Make-A-Person](https://www.freecodecamp.org/challenges/make-a-person)
+3. [Advanced Algorithm Scripting - Pairwise](https://www.freecodecamp.org/challenges/pairwise)
+3. [Advanced Algorithm Scripting - Map-the-Debris](https://www.freecodecamp.org/challenges/map-the-debris)
+
+
+### --- Day 45 Tuesday 2nd May, 2018 --- ###
+
+**Today's Progress**: Completed just one project - 4 hours of study and research.
+ 
+**Thoughts**: Finding these very challenging, having to do a lot of research and pushing my abilities to follow and understand nested logic. 
+
+**Link to work:** 
+1. [Advanced Algorithm Scripting - Inventory-Update](https://www.freecodecamp.org/challenges/inventory-update)
 
 
 ### --- Day 44 Monday 1st May, 2018 --- ###
