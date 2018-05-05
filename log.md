@@ -1,18 +1,51 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-### --- Day 47 Thursday 4th May, 2018 --- ###
+### --- Day 50 Sunday 6th May, 2018 --- ###
 
 **Today's Progress**: 
  
 **Thoughts**: 
 
 **Link to work:** 
-1. [Advanced Front-End Developer Challenges - JS-Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
-2. [GitHub - TwitchTV API](https://github.com/Rubick-dev/TwitchTVAPI)
+1. [Advanced Front-End Developer Project - JS-Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
+2. [GitHub - JavaScript Calculator](https://github.com/Rubick-dev/jscalc)
 
 
-### --- Day 46 Wednesday 3rd May, 2018 --- ###
+### --- Day 49 Saturday 5th May, 2018 --- ###
+
+**Today's Progress**: Big day today, spent most of the day coding the logic for the FCC JavaScript Calculator. Also did a few tocuh ups on the css and rearranged the html to suit the design - 8 hours of coding.
+ 
+**Thoughts**: Lots of research into how to do this. Extremely proud of this one as I have not used or even checked any code from other applicaitons. Going for the done it all my self badge on this one.
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - JS-Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
+2. [GitHub - JavaScript Calculator](https://github.com/Rubick-dev/jscalc)
+
+
+### --- Day 48 Friday 4th May, 2018 --- ###
+
+**Today's Progress**: Last day of my partenrs weekend before she starts 12 in 15 days of work so we went out. Spent the night getting the HTML structure and the css of the page and ready to start functionality of the javascript logic tomorrow. - 5 hours of development.
+ 
+**Thoughts**: Using CSS grid again as I love this tool and it fits a calculator very well. Using the grid-template-areas property as its extremly user friendly and suits the calculator again. Also implemented the box-shadow property for button visuals. 
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - JS-Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
+2. [GitHub - JavaScript Calculator](https://github.com/Rubick-dev/jscalc)
+
+
+### --- Day 47 Thursday 3rd May, 2018 --- ###
+
+**Today's Progress**: Started on the FCC JavaScript Calculator - Advanced Developer Project. It was the start of my partners weekend so my study was cut short. 2 hours of Prep / Coding.
+ 
+**Thoughts**: Just prepared the skeleton files for the application. Not too much of a challenge today.
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - JS-Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
+2. [GitHub - JavaScript Calculator](https://github.com/Rubick-dev/jscalc)
+
+
+### --- Day 46 Wednesday 2nd May, 2018 --- ###
 
 **Today's Progress**: Completed the remaining advanced challenges on FreeCodeCamp. 10 hours of study and research.
  
@@ -25,7 +58,7 @@
 3. [Advanced Algorithm Scripting - Map-the-Debris](https://www.freecodecamp.org/challenges/map-the-debris)
 
 
-### --- Day 45 Tuesday 2nd May, 2018 --- ###
+### --- Day 45 Tuesday 1st May, 2018 --- ###
 
 **Today's Progress**: Completed just one project - 4 hours of study and research.
  
@@ -35,7 +68,7 @@
 1. [Advanced Algorithm Scripting - Inventory-Update](https://www.freecodecamp.org/challenges/inventory-update)
 
 
-### --- Day 44 Monday 1st May, 2018 --- ###
+### --- Day 44 Monday 30th April, 2018 --- ###
 
 **Today's Progress**: Completed two FreeCodeCamp Advanced Algorithms - 6 hours of research and study.
  
