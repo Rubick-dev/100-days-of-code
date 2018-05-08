@@ -8,8 +8,8 @@
 **Thoughts**: 
 
 **Link to work:** 
-1. [Advanced Front-End Developer Project - JS-Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
-2. [GitHub - JavaScript Calculator](https://github.com/Rubick-dev/jscalc)
+1. [Advanced Front-End Developer Project - Promodoro Clock](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
+2. [GitHub - JavaScript Prmodoro Clock](https://github.com/Rubick-dev/promodoroclock)
 
 
 ### --- Day 52 Tuesday 8th May, 2018 --- ###
