@@ -1,7 +1,7 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-### --- Day 50 Sunday 6th May, 2018 --- ###
+### --- Day 53 Wednesday 9th May, 2018 --- ###
 
 **Today's Progress**: 
  
@@ -12,9 +12,42 @@
 2. [GitHub - JavaScript Calculator](https://github.com/Rubick-dev/jscalc)
 
 
+### --- Day 52 Tuesday 8th May, 2018 --- ###
+
+**Today's Progress**: Worked on the logic aspect of the Prmodoro Clock. 8 hours of coding
+ 
+**Thoughts**: Mix of structure changes, added bootstrap, added the click events and researched more on the timer. This one is going to make me dig deep as its something i have not seen before in any of the lessons I have done.
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - Promodoro Clock](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
+2. [GitHub - JavaScript Promodoro Clock](https://github.com/Rubick-dev/promodoroclock)
+
+
+### --- Day 51 Monday 7th May, 2018 --- ###
+
+**Today's Progress**: Started work on the Promodoro Clock. - 6 hours of coding.
+ 
+**Thoughts**: Got most of the structure and skeleton in place today and did a fair bit of research into setInterval and how that works. More research tomorrow though.
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - Promodoro Clock](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
+2. [GitHub - JavaScript Promodoro Clock](https://github.com/Rubick-dev/promodoroclock)
+
+
+### --- Day 50 Sunday 6th May, 2018 --- ###
+
+**Today's Progress**: Completed the JavaScript Calculator and updated my portfolio to include the new JSCalc app. - 8 hours of study.
+ 
+**Thoughts**: Completed the calculator, did some vigorous testing and it all came up nicely. This was my first project that really had me thinking a lot about structure and gettign a system in place to make sure im not missing anything. Larger projects would make for much more complex challenges and going off a memory wouldnt work to well.
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - Promodoro Clock](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
+2. [GitHub - JavaScript Promodoro Clock](https://github.com/Rubick-dev/promodoroclock)
+
+
 ### --- Day 49 Saturday 5th May, 2018 --- ###
 
-**Today's Progress**: Big day today, spent most of the day coding the logic for the FCC JavaScript Calculator. Also did a few tocuh ups on the css and rearranged the html to suit the design - 8 hours of coding.
+**Today's Progress**: Big day today, spent most of the day coding the logic for the FCC JavaScript Calculator. Also did a few touch ups on the css and rearranged the html to suit the design - 8 hours of coding.
  
 **Thoughts**: Lots of research into how to do this. Extremely proud of this one as I have not used or even checked any code from other applicaitons. Going for the done it all my self badge on this one.
 
