@@ -1,11 +1,22 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-### --- Day 53 Wednesday 9th May, 2018 --- ###
+### --- Day 54 Thursday 10th May, 2018 --- ###
 
 **Today's Progress**: 
  
 **Thoughts**: 
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - Promodoro Clock](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
+2. [GitHub - JavaScript Prmodoro Clock](https://github.com/Rubick-dev/promodoroclock)
+
+
+### --- Day 53 Wednesday 9th May, 2018 --- ###
+
+**Today's Progress**: Complete the logic of the Pomodoro Clock, spent the entire day on it. - 10 hours of coding. 
+ 
+**Thoughts**: This was a real brain twister, im sure my code is excessive but in the end, it does what i need it to do in terms of functionality. Steps for tomorrow are to pretty it up with some CSS and its done and onto the second last challenge! Super happy to get this aspect of the project done today as it was one of those confidence checkers. I used nested loops, switch statements, conditionals. eventListeners and functions within functions and even a ternary operator again. I think I have nailed those now.
 
 **Link to work:** 
 1. [Advanced Front-End Developer Project - Promodoro Clock](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
