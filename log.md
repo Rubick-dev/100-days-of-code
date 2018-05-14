@@ -1,15 +1,73 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-### --- Day 54 Thursday 10th May, 2018 --- ###
+### --- Day 54 Tuesday 15th May, 2018 --- ###
 
 **Today's Progress**: 
  
 **Thoughts**: 
 
 **Link to work:** 
-1. [Advanced Front-End Developer Project - Promodoro Clock](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
-2. [GitHub - JavaScript Prmodoro Clock](https://github.com/Rubick-dev/promodoroclock)
+1. [Advanced Front-End Developer Project - TicTacToe Game](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+2. [GitHub - TicTacToe JavaScript Game Challenge](https://github.com/Rubick-dev/TicTacToe)
+
+
+### --- Day 54 Monday 14th May, 2018 --- ###
+
+**Today's Progress**: huge progress day, as i worked on getting closer to finsihing the TTT app. - 13 hours of development and research.
+ 
+**Thoughts**: I did end up finding someone elses code that was very similar to my core anyway. I used it to fill in some gaps and make a few ammendments to my own code. My functionality in the app is very differnet to there end product so large modification were needed and ultimately only two functions I borrowed from to get what I needed done. End of a massive day with a breakthrough righjt at the end on something I was working on for 5 hours. That woohoo feeling as i go to sleep. 
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - TicTacToe Game](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+2. [GitHub - TicTacToe JavaScript Game Challenge](https://github.com/Rubick-dev/TicTacToe)
+
+
+### --- Day 57 Sunday 13th May, 2018 --- ###
+
+**Today's Progress**: Still working on the TTT program, not much progress as another family day. 2 hours of study.
+ 
+**Thoughts**: Only got a couple of hours in and am pretty much stuck on the same place as yesterday. Thinking about one more day of research before I get some spooilers.
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - TicTacToe Game](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+2. [GitHub - TicTacToe JavaScript Game Challenge](https://github.com/Rubick-dev/TicTacToe)
+
+
+### --- Day 56 Saturday 12th May, 2018 --- ###
+
+**Today's Progress**: Short day as was family day. 4 hours of coding the logic for the Tic Tac Toe game.
+ 
+**Thoughts**: Probably will have to do further research into how this has to be done as I couldnt get the event listener to not let me go out of turn. Also no clue as to how to use computer AI, so did a little bit of research in this.
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - TicTacToe Game](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+2. [GitHub - TicTacToe JavaScript Game Challenge](https://github.com/Rubick-dev/TicTacToe)
+
+
+
+### --- Day 55 Friday 11th May, 2018 --- ###
+
+**Today's Progress**: Worked on the HTML and CSS of the TTT app. -6 hours of coding.
+ 
+**Thoughts**: Focused mostly on the HTML and CSS of TTT application, wasnt sure what style to go with so went through about 5 iterations of the look and feel before settling for the electonic board style. Really happy with how it come up.
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - TicTacToe Game](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+2. [GitHub - TicTacToe JavaScript Game Challenge](https://github.com/Rubick-dev/TicTacToe)
+
+
+### --- Day 54 Thursday 10th May, 2018 --- ###
+
+**Today's Progress**: Finished off the Pomodoro Clock and started the skeleton to the TicTacToe game 3rd challenge - 8 hours of study.  
+    
+**Thoughts**: Pomodoro is done and looks great, got it uploaded to the web and updated the README file. Have yet to add it to the portfolio page. Started on the TicTacToe skeleton files and did some research into what is needed. Looks like this is going to be the most difficult challenge to solve to date.
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - TicTacToe Game](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+2. [GitHub - TicTacToe JavaScript Game Challenge](https://github.com/Rubick-dev/TicTacToe)
+3. [Advanced Front-End Developer Project - Promodoro Clock](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
+4. [GitHub - JavaScript Prmodoro Clock](https://github.com/Rubick-dev/promodoroclock)
 
 
 ### --- Day 53 Wednesday 9th May, 2018 --- ###
@@ -18,7 +76,7 @@
  
 **Thoughts**: This was a real brain twister, im sure my code is excessive but in the end, it does what i need it to do in terms of functionality. Steps for tomorrow are to pretty it up with some CSS and its done and onto the second last challenge! Super happy to get this aspect of the project done today as it was one of those confidence checkers. I used nested loops, switch statements, conditionals. eventListeners and functions within functions and even a ternary operator again. I think I have nailed those now.
 
-**Link to work:** 
+**Link to work:**  
 1. [Advanced Front-End Developer Project - Promodoro Clock](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
 2. [GitHub - JavaScript Prmodoro Clock](https://github.com/Rubick-dev/promodoroclock)
 
