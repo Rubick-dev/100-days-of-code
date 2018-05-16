@@ -1,18 +1,42 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-### --- Day 54 Tuesday 15th May, 2018 --- ###
+### --- Day 61 Thursday 17th May, 2018 --- ###
 
 **Today's Progress**: 
  
 **Thoughts**: 
 
 **Link to work:** 
+1. [Advanced Front-End Developer Project - Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
+2. [GitHub - Simon Game]()
+
+
+
+### --- Day 60 Wednesday 16th May, 2018 --- ###
+
+**Today's Progress**: Polished the TTT app and released it to the interwebs for the public. -8 hours of study.
+ 
+**Thoughts**: Electro TicTacToe App has a very basic AI. Worked on the buttons today and making them look as good as possible. I will work on 2 more pieces for this in the future. To add an electro board visual effect on game reset and also a harder AI. But at the moment i will move onto the final FCC challenge.
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - TicTacToe Game](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+2. [GitHub - TicTacToe JavaScript Game Challenge](https://github.com/Rubick-dev/TicTacToe)
+3. [ElectroTicTacToe Live APP - JavaScript Game Challenge](https://electrotictactoe.herokuapp.com/)
+
+
+### --- Day 59 Tuesday 15th May, 2018 --- ###
+
+**Today's Progress**: Another massive day working on the ElectroTicTacToe app from FCC. -13 hours of coding.
+ 
+**Thoughts**: worked heavily on final logic and testing for bugs and errors. just three more things to work on and all cosmetic. This was a very challenging app to work on. Was a massive step up (the logic compared to anything else I have done). FCC is great cause it forces you to get uncomfortable.
+
+**Link to work:** 
 1. [Advanced Front-End Developer Project - TicTacToe Game](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
 2. [GitHub - TicTacToe JavaScript Game Challenge](https://github.com/Rubick-dev/TicTacToe)
 
 
-### --- Day 54 Monday 14th May, 2018 --- ###
+### --- Day 58 Monday 14th May, 2018 --- ###
 
 **Today's Progress**: huge progress day, as i worked on getting closer to finsihing the TTT app. - 13 hours of development and research.
  
