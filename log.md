@@ -1,23 +1,80 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-### --- Day 61 Thursday 17th May, 2018 --- ###
 
-**Today's Progress**: 
+### --- Day 66 Tuesday 22nd May, 2018 --- ###
+
+**Today's Progress**:
  
 **Thoughts**: 
 
 **Link to work:** 
 1. [Advanced Front-End Developer Project - Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
-2. [GitHub - Simon Game]()
+2. [GitHub - Simon Game](https://github.com/Rubick-dev/mimic)
 
+
+### --- Day 65 Monday 21st May, 2018 --- ###
+
+**Today's Progress**: Big day fine tuning the HTML and CSS. - 9 hours of study and coding.
+ 
+**Thoughts**: Final day of building out the look and feel of the page. Added in some animations, fade in, tool tip, wallpapers, slider buttons and start button. Productive day and now ready to start coding the logic of the game. I am setting myself a huge goal of having the project completed by Thursday!
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
+2. [GitHub - Simon Game](https://github.com/Rubick-dev/mimic)
+
+
+
+### --- Day 64 Sunday 20th May, 2018 --- ###
+
+**Today's Progress**: Family day today, spent minimal time fixing up some more HTML and CSS. - 2 hours of study and coding.
+ 
+**Thoughts**: Slow day duie to family activities. Just spent 2 hours in the mornign on hte project.
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
+2. [GitHub - Simon Game](https://github.com/Rubick-dev/mimic)
+
+
+### --- Day 63 Saturday 19th May, 2018 --- ###
+
+**Today's Progress**: Focused heavily on the HTML and CSS of the mimic me project. - 4 hours of study
+ 
+**Thoughts**: After a big week of study, took a bit of a slack and me day to rest and relax. Focused on the final core skeleton of the page and started to style some of the layout of the page. Including the lights flash display and the buttons, bottom panel positioning.
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
+2. [GitHub - Simon Game](https://github.com/Rubick-dev/mimic)
+
+
+### --- Day 62 Friday 18th May, 2018 --- ###
+
+**Today's Progress**: Started the Simon game which I have named Mimic Me! -8 hours of study and research.
+ 
+**Thoughts**: I created the github repository of mimic and then focused on the skeleton and research into what is needed for this project. Bare basics of the skeleton was created. Lots of continued research into the timeOut and SetInterval functions. Checked the user stories and ensured I started to do a high level design that met these requirements.
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
+2. [GitHub - Simon Game](https://github.com/Rubick-dev/mimic)
+
+
+### --- Day 61 Thursday 17th May, 2018 --- ###
+
+**Today's Progress**: Completed the Electro TicTacToe project. - 8 hours of development and deployment.
+ 
+**Thoughts**: Had to research heavily into timed actions, I found this fairly interesting subject, getting into the Javascript Engine, how it does tasks etc. This was to allow me to do some animations over time and also delay some graphics for a percieved AI turn timer. The project is fully complete and it was added to the portfolio which required expansion of the carousel.
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - TicTacToe Game](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+2. [GitHub - TicTacToe JavaScript Game Challenge](https://github.com/Rubick-dev/TicTacToe)
+3. [ElectroTicTacToe Live APP - JavaScript Game Challenge](https://electrotictactoe.herokuapp.com/)
 
 
 ### --- Day 60 Wednesday 16th May, 2018 --- ###
 
 **Today's Progress**: Polished the TTT app and released it to the interwebs for the public. -8 hours of study.
  
-**Thoughts**: Electro TicTacToe App has a very basic AI. Worked on the buttons today and making them look as good as possible. I will work on 2 more pieces for this in the future. To add an electro board visual effect on game reset and also a harder AI. But at the moment i will move onto the final FCC challenge.
+**Thoughts**: Electro TicTacToe App has a very basic AI. Worked on the buttons today and making them look as good as possible. Final things to complete are to add an electro board visual effect on game reset and also a harder AI.
 
 **Link to work:** 
 1. [Advanced Front-End Developer Project - TicTacToe Game](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
@@ -29,7 +86,7 @@
 
 **Today's Progress**: Another massive day working on the ElectroTicTacToe app from FCC. -13 hours of coding.
  
-**Thoughts**: worked heavily on final logic and testing for bugs and errors. just three more things to work on and all cosmetic. This was a very challenging app to work on. Was a massive step up (the logic compared to anything else I have done). FCC is great cause it forces you to get uncomfortable.
+**Thoughts**: Worked heavily on final logic and testing for bugs and errors. Most of the logic done now and the game works without any bugs detected to date. I have just three more things to work on and mainly cosmetic. This was a very challenging app to work on, I feel it was a massive step up (the logic compared to anything else I have done). #FCC challenges have been great because it has forced me out of my comfort zone.
 
 **Link to work:** 
 1. [Advanced Front-End Developer Project - TicTacToe Game](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
