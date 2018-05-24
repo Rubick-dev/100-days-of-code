@@ -1,12 +1,47 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-
-### --- Day 66 Tuesday 22nd May, 2018 --- ###
+### --- Day 69 Friday 25th May, 2018 --- ###
 
 **Today's Progress**:
  
 **Thoughts**: 
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
+2. [GitHub - Simon Game](https://github.com/Rubick-dev/mimic)
+
+
+### --- Day 68 Thursday 24th May, 2018 --- ###
+
+**Today's Progress**: Finished the project and thee FREECODECAMP Front end certification. - 6 hours of development.
+ 
+**Thoughts**:  Whilst its game logic is not 100% perfect, I feels its good enough for now and its time i started to learn some new skills. Completed the media queriies and responsive design aspects. Also added it ot my portfolio and completed the FCC front end certificate! 
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
+2. [GitHub - Simon Game](https://github.com/Rubick-dev/mimic)
+3. [Front-End Developer Certificate](https://www.freecodecamp.org/rubick-dev/front-end-certification)
+4. [Mimic Me - Game Link](https://mimicsimon.herokuapp.com/)
+
+
+### --- Day 67 Wednesday 23rd May, 2018 --- ###
+
+**Today's Progress**: Finished the logic of the game. - 10 hours of development.
+ 
+**Thoughts**: Finished off the code and tested the application, had some issues with resets and clearing setTimeouts so i added them all to an array variable and cleared the variable. it usually solved the problem but still was a little buggy. Sometimes after you click reset or start again a sound would play. Added a check into the logic to make sure that start button had not been pushed as it was about to play. Mostly solved the problem now. 
+
+**Link to work:** 
+1. [Advanced Front-End Developer Project - Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
+2. [GitHub - Simon Game](https://github.com/Rubick-dev/mimic)
+
+
+
+### --- Day 66 Tuesday 22nd May, 2018 --- ###
+
+**Today's Progress**: Continued focus on the Mimic game. - 10 hours of study and coding
+ 
+**Thoughts**: Today started the logic of the game, started to use a lot of setTimeouts and loops to get the lights displaying in set sequences. Fairly soild day and got a big percentage of the challenge completed.
 
 **Link to work:** 
 1. [Advanced Front-End Developer Project - Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
