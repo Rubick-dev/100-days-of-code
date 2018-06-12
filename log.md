@@ -1,15 +1,152 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-### --- Day 69 Friday 25th May, 2018 --- ###
+### --- Day 88 Wednesday 13th June, 2018 --- ###
 
 **Today's Progress**:
  
 **Thoughts**: 
 
 **Link to work:** 
-1. [Advanced Front-End Developer Project - Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
-2. [GitHub - Simon Game](https://github.com/Rubick-dev/mimic)
+2. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+
+### --- Day 87 Tuesday 12th June, 2018 --- ###
+
+**Today's Progress**: Continued on with the course and completed teh CSS which was module 3. - 4 hours of study.
+ 
+**Thoughts**: A lot of this has bene reevisionm bnuit it has been great to fill in some gaps of why and when to use certain aspects of flexbox.
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+
+### --- Day 86 Monday 11th June, 2018 --- ###
+
+**Today's Progress**: Continued on with the advanced WEb dev course. 6 hours of study.
+  
+**Thoughts**: Keyframes was the highlight and this part had a do it yourself project I had to build. Very simplae project
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+2. [Git - Sunrise Keyframes project](https://github.com/Rubick-dev/Sunrise)
+
+
+
+### --- Day 85 Sunday 10th June, 2018 --- ###
+
+**Today's Progress**: Started on the Udemy course from Colt Steele. Did module 1. - 2 hours of study.
+ 
+**Thoughts**: Focus is on the CSS aspect for the first three modules. Today was transitions. 
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+### --- Day 81 - 84 Wed - Sat 6th - 9th June, 2018 --- ###
+
+**Today's Progress**: Throughout this time I did a lot of review of everything I have done so far. Making sure everything I have learnt has stuck. I also watched and read a lot of materials to keep me up to date with goings on. - 8 hours of ressearch and study
+ 
+**Thoughts**: This was the final resting period beore tomorrow which marks the start of my final 2 months of study prior to job hunting for a web developer role. I looked into what I needed to get done and put a plan in place to achieve the goals set down before me.
+
+
+### --- Day 80 Tuesday 5th June, 2018 --- ###
+
+**Today's Progress**: Finally found the problem with why the audio wasnt working. - 8 hours of troubleshooting!
+ 
+**Thoughts**: It looks like Heroku had a file issue and wouldn't support that size of file or type. I looked through docs for this but couldnt find anythign at all to state that was the problem. Was good though as I finally used myt AWS account and uploaded the audio file from Amazon s3 and can now saay I am an AWS expert :P. Worked fine after that and deployued the site for the final time.
+
+**Link to work:** 
+1. [GitHub - Happy Birthday Kayle](https://github.com/Rubick-dev/happybdaykayle)
+
+
+### --- Day 79 Monday 4th June, 2018 --- ###
+
+**Today's Progress**: had a major stumbling block with the website, issues with the audio. - 6 hours of research.
+ 
+**Thoughts**: The audio oon the website wouldnt workl from the hosted site but from my local site it was fine. This was one of those issus that I just couldnt work out and tried many different things. Only 2 days until her birthday so I have focused on getting this done.
+
+**Link to work:** 
+1. [GitHub - Happy Birthday Kayle](https://github.com/Rubick-dev/happybdaykayle)
+
+
+### --- Day 78 Sunday 3rd June, 2018 --- ###
+
+**Today's Progress**: Put the final touches on the Happy birthday website. - 3 hours of development.
+ 
+**Thoughts**: Happy with the outcome, final release uploaded to github and hosted, looking forward to seeing the surprise from my partner.
+
+**Link to work:** 
+1. [GitHub - Happy Birthday Kayle](https://github.com/Rubick-dev/happybdaykayle)
+
+
+### --- Day 77 Saturday 2nd June, 2018 --- ###
+
+**Today's Progress**: Worked on Kayles Birthday project, put it all together. - 6 hours of development.
+ 
+**Thoughts**: Reserarched about adding audio to a web page for the happy birthday song to be on it for her as well as the message. appy with the outcome.
+
+**Link to work:** 
+1. [GitHub - Happy Birthday Kayle](https://github.com/Rubick-dev/happybdaykayle)
+
+
+### --- Day 76 Friday 1st June, 2018 --- ###
+
+**Today's Progress**: Researched the new FreeCodeCamp revamp and also looked into some Udemy course. - 2 hours of research
+ 
+**Thoughts**: I have to start a new line of study shortly and have decided toe remain focused on the front end and strenghten my knowledge in the CSS / JavaScript space. I have decided on taking the Colt Steele Advanced developer course next followed by FreeCodeCmap.
+
+**Link to work:** 
+1. [GitHub - Happy Birthday Kayle](https://github.com/Rubick-dev/happybdaykayle)
+2. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+### --- Day 75 Thursday 31st May, 2018 --- ###
+**Today's Progress**: Took a break today from development and study - no time spent! :()
+
+
+### --- Day 74 Wednesday 30th May, 2018 --- ###
+
+**Today's Progress**: . Worked on Kayles website again - 3 hours of research and design.
+ 
+**Thoughts**: Couple of hours more on the design and also searching the internet for appripriate color schemes and pictures. I decided on keeping the website simple inm functionality.
+
+**Link to work:** 
+1. [GitHub - Happy Birthday Kayle](https://github.com/Rubick-dev/happybdaykayle)
+
+
+### --- Day 73 Tuesday 29th May, 2018 --- ###
+
+**Today's Progress**: Started the design of a surprise website for my partner. A Happy Birthday message single page simple website. - 6 hours of research and coding.
+ 
+**Thoughts**: Just did the skeleton files for the sight today.
+
+**Link to work:** 
+1. [GitHub - Happy Birthday Kayle](https://github.com/Rubick-dev/happybdaykayle)
+
+
+
+### --- Day 70 / 71 / 72 Sat- Mon 26th-28th May, 2018 --- ###
+
+**Today's Progress**: Worked on Code wars Kyu. - 6 hours of study
+ 
+**Thoughts**: Got through 9 Kata and tried to go up difficulty however my motivation at the moment to challenge myself has been lower as I am in break mode during this period so I focused on content that I have done before rather than the research aspect. Ill be back in fuill swing soon!
+
+**Link to work:** 
+1. [CodeWars Profile](https://www.codewars.com/users/Rubick-dev)
+
+
+### --- Day 69 Friday 25th May, 2018 --- ###
+
+**Today's Progress**: Working on Code wars Kyu- 2 hours of coding
+ 
+**Thoughts**: After a vigourous couple of months of studying long hours, I have decided to wind it back a bit for a week as I needed a break. Hoewever I will do a minimum of 2 hours of work per day to make sure I forfill my 100 days of code pledge. Today I worked on 1 kyu
+
+**Link to work:** 
+1. [CodeWars Profile](https://www.codewars.com/users/Rubick-dev)
+
 
 
 ### --- Day 68 Thursday 24th May, 2018 --- ###
