@@ -1,20 +1,31 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-### --- Day 88 Wednesday 13th June, 2018 --- ###
+### --- Day 89 Thursday 14th June, 2018 --- ###
 
 **Today's Progress**:
  
 **Thoughts**: 
 
 **Link to work:** 
+
 2. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
 
+
+### --- Day 88 Wednesday 13th June, 2018 --- ###
+
+**Today's Progress**: Worked on module 5 which was a code along bringing together a lot of the what we have learned. - 10 hours of coding. 
+ 
+**Thoughts**: Instead of building the fake website the code along was doing I tailored it to a business that I am actually building a website for. This was a perfect marketing style site that The Barber Shop could utilise. Will have to make heavy ammendments to achieve the goals of that website but this was a great skeleton site to start.
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+2. [Git - The Barber Shop Repo](https://github.com/Rubick-dev/thebarbershop)
 
 
 ### --- Day 87 Tuesday 12th June, 2018 --- ###
 
-**Today's Progress**: Continued on with the course and completed teh CSS which was module 3. - 4 hours of study.
+**Today's Progress**: Continued on with the course and completed the remaining CSS modules ( 3 & 4). - 4 hours of study.
  
 **Thoughts**: A lot of this has bene reevisionm bnuit it has been great to fill in some gaps of why and when to use certain aspects of flexbox.
 
@@ -25,7 +36,7 @@
 
 ### --- Day 86 Monday 11th June, 2018 --- ###
 
-**Today's Progress**: Continued on with the advanced WEb dev course. 6 hours of study.
+**Today's Progress**: Continued on with the advanced Web dev course, module 2. 6 hours of study.
   
 **Thoughts**: Keyframes was the highlight and this part had a do it yourself project I had to build. Very simplae project
 
