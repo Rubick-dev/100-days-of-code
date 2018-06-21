@@ -1,20 +1,36 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-### --- Day 89 Thursday 14th June, 2018 --- ###
+### --- Day 96 Thursday 21st June, 2018 --- ###
 
-**Today's Progress**:
+**Today's Progress**: Worked on module 7 and 8 which was focused on AJAX and some related libraries. - 7 hours of coding. 
  
-**Thoughts**: 
+**Thoughts**: Made an app with vanilla Ajax as ive always used jQuery as it seems easier. Glad i have learnt how to use the original anbd understand behind the hood a lot more. Axios and fetch also was picked up today.
 
 **Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+2. [Git - Bitcoin current rate API APP](https://github.com/Rubick-dev/Bitcoin)
 
-2. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+### --- Day 90-95 Friday 15th - 20th June, 2018 --- ###
+
+**Today's Progress**:
+Holidays. Took a 6 day break away from coding
+
+
+### --- Day 88 Thursday 14th June, 2018 --- ###
+
+**Today's Progress**: Worked on module 6 which was more theoretical about Async and Promises. - 6 hours of coding. 
+ 
+**Thoughts**: Learning the engine behind JavaScript was more enjoyable than I thought would be. The stack the heap and the queue opened up a mini aha moment.
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
 
 
 ### --- Day 88 Wednesday 13th June, 2018 --- ###
 
-**Today's Progress**: Worked on module 5 which was a code along bringing together a lot of the what we have learned. - 10 hours of coding. 
+**Today's Progress**: Worked on module 5 & 6 which was a code along bringing together a lot of the what we have learned. - 10 hours of coding. 
  
 **Thoughts**: Instead of building the fake website the code along was doing I tailored it to a business that I am actually building a website for. This was a perfect marketing style site that The Barber Shop could utilise. Will have to make heavy ammendments to achieve the goals of that website but this was a great skeleton site to start.
 
