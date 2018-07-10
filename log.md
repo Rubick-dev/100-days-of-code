@@ -15,7 +15,7 @@
 ### --- Day 90-95 Friday 15th - 20th June, 2018 --- ###
 
 **Today's Progress**:
-Holidays. Took a 6 day break away from coding
+Holidays. Took a 6 day break, went on a surfing holiday.
 
 
 ### --- Day 88 Thursday 14th June, 2018 --- ###
