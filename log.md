@@ -1,6 +1,86 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
+### --- Day 1043 Thursday 28th June, 2018 --- ###
+
+**Today's Progress**: 
+ 
+**Thoughts**: 
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+### --- Day 103 Wednesday 27th June, 2018 --- ###
+
+**Today's Progress**: 
+ 
+**Thoughts**: 
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+### --- Day 102 Tuesday 26th June, 2018 --- ###
+
+**Today's Progress**: Completed module 11 of the advanced web development bootcamp, Closures and the Keyword This. - 5 hours of coding and study.
+ 
+**Thoughts**: The keyword This is tricky. I have used it throughout the past year whilst learnign JavaScript. THis module explained it very clearly, the 4 rules it will be allocated under and also that every function is allocated the word this to it was very helpful to cement the understanding of the keyword "This".
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+### --- Day 101 Monday 25th June, 2018 --- ###
+
+**Today's Progress**: Started working on module 11 of the advanced Web development bootcamp. 4 hours of coding
+ 
+**Thoughts**: Closures and private variables concept took a while to fully understand. I spent the entire time researtchign to make sure i completely understood this course works.
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+### --- Day 100 Monday 25th June, 2018 --- ###
+
+**Today's Progress**: Completed module 10 - advanced arrays. - 4 hours of coding. 
+ 
+**Thoughts**: Final area of reduce and reduice continued, this is the advance array method i have the m ost trouble with. It spent a  lot of time focusing on the excercises and did exctra research to make sure this one really sunk in. 100 days of code completed, onto the next 100 days!
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+### --- Day 99 Sunday 24th June, 2018 --- ###
+
+**Today's Progress**: Continued working on module 10 focusing on advanced arrays. - 4 hours of coding. 
+ 
+**Thoughts**: worked on filter, some and every methods of advanced array methods. Spent a lot of time doing excercises to ensure these sink in as they constantly appear in training excercises.
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+### --- Day 98 Saturday 23rd June, 2018 --- ###
+
+**Today's Progress**: Worked on module 10 focusing on advanced arrays. - 2 hours of coding. 
+ 
+**Thoughts**: Just a short day today with a few excerecising to practice using forEach and the Map advanced array methods.
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+### --- Day 97 Friday 22nd June, 2018 --- ###
+
+**Today's Progress**: Worked on module 9 focusing on Jasmine testing. - 5 hours of coding. 
+ 
+**Thoughts**: This was a very fast overview of Jasmie testing including TDD and BDD, explaining the importance of testing in large applications.
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
 ### --- Day 96 Thursday 21st June, 2018 --- ###
 
 **Today's Progress**: Worked on module 7 and 8 which was focused on AJAX and some related libraries. - 7 hours of coding. 
