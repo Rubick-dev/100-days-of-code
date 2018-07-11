@@ -1,7 +1,7 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-### --- Day 107 Sunday 1st July, 2018 --- ###
+### --- Day 106 Sunday 1st July, 2018 --- ###
 
 **Today's Progress**: 
  
@@ -11,7 +11,7 @@
 1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
 
 
-### --- Day 106 Saturday 30th June, 2018 --- ###
+### --- Day 105 Saturday 30th June, 2018 --- ###
 
 **Today's Progress**: Completed module 12 of the advanced Web Dev . inheritence - 3 hours of coding and study.
  
