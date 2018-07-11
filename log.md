@@ -1,7 +1,7 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-### --- Day 1043 Thursday 28th June, 2018 --- ###
+### --- Day 107 Sunday 1st July, 2018 --- ###
 
 **Today's Progress**: 
  
@@ -11,17 +11,37 @@
 1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
 
 
-### --- Day 103 Wednesday 27th June, 2018 --- ###
+### --- Day 106 Saturday 30th June, 2018 --- ###
 
-**Today's Progress**: 
+**Today's Progress**: Completed module 12 of the advanced Web Dev . inheritence - 3 hours of coding and study.
  
-**Thoughts**: 
+**Thoughts**: Object.create was the focuis of the chat, this one I definitely will need further research as it went over my head. It was 4am in the morning though so might try it when I am more awake!
 
 **Link to work:** 
 1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
 
 
-### --- Day 102 Tuesday 26th June, 2018 --- ###
+### --- Day 104 Friday 29th June, 2018 --- ###
+
+**Today's Progress**: Worked on Module 12 of the advanced Web Dev Bootcamp. Protoypes. 3 hours of coding
+ 
+**Thoughts**: REally enjoying this section of the course, I feel I am learning very important aspects of JAvascript. It seems to be sinking in well although the keyword "this" constantly confuses me. Completed about 8 excercises which were fairly complex.
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+### --- Day 103 Thursday 28th June, 2018 --- ###
+
+**Today's Progress**: Started working on Module 12 of the advanced JavaScript web developer course. Object Oriented Programming. Completed New and constructor functions. - 3 hours of coding.
+ 
+**Thoughts**: Started to get into the This word using call and apply and its getting tricky to keep up with so I started doing my own examples to cement the concepts in my memory. Lets hope it works!
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+### --- Day 102 Wednesday 27th June, 2018 --- ###
 
 **Today's Progress**: Completed module 11 of the advanced web development bootcamp, Closures and the Keyword This. - 5 hours of coding and study.
  
@@ -31,7 +51,7 @@
 1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
 
 
-### --- Day 101 Monday 25th June, 2018 --- ###
+### --- Day 101 Tuesday 26th June, 2018 --- ###
 
 **Today's Progress**: Started working on module 11 of the advanced Web development bootcamp. 4 hours of coding
  
