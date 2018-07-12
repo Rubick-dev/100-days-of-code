@@ -4,7 +4,7 @@
 
 ### --- Day 117 Thursday 12th July, 2018 --- ###
 
-**Today's Progress**: Started working on the Node prep for React that I am about to learn.medusa
+**Today's Progress**: Started and completed module 12 which is working on the node aspect of React preperation. 5 hours of study and coding  
  
 **Thoughts**: 
 
