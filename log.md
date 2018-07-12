@@ -1,14 +1,21 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-### --- Day 106 Sunday 1st July, 2018 --- ###
 
-**Today's Progress**: 
+### --- Day 117 Thursday 12th July, 2018 --- ###
+
+**Today's Progress**: Started working on the Node prep for React that I am about to learn.medusa
  
 **Thoughts**: 
 
 **Link to work:** 
 1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+### --- Day 106 - 116 Sunday 1st - Wed 11th July, 2018 --- ###
+
+**Today's Progress**: 
+No progress during this two weeks as went on a holiday.
 
 
 ### --- Day 105 Saturday 30th June, 2018 --- ###
