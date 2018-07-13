@@ -1,6 +1,25 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
+### --- Day 119 Saturday 14th July, 2018 --- ###
+
+**Today's Progress**:
+ 
+**Thoughts**: 
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+### --- Day 118 Friday 13th July, 2018 --- ###
+
+**Today's Progress**: 
+ 
+**Thoughts**: 
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
 
 ### --- Day 117 Thursday 12th July, 2018 --- ###
 
