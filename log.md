@@ -1,7 +1,7 @@
 ##------------# 100 Days Of Code - Log #------------##  
 ############# START OF DEV DIARY IN REVERSE CHRONOLOGICAL ORDER #############
 
-### --- Day 119 Saturday 14th July, 2018 --- ###
+### --- Day 121 Monday 16th July, 2018 --- ###
 
 **Today's Progress**:
  
@@ -11,9 +11,9 @@
 1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
 
 
-### --- Day 118 Friday 13th July, 2018 --- ###
+### --- Day 120 Sunday 15th July, 2018 --- ###
 
-**Today's Progress**: 
+**Today's Progress**:
  
 **Thoughts**: 
 
@@ -21,11 +21,31 @@
 1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
 
 
+### --- Day 119 Saturday 14th July, 2018 --- ###
+
+**Today's Progress**: Started and completed sections 15 and 16 of the advanced developer course. - 6 hours of study.
+ 
+**Thoughts**: Learning about ES6 or ES2015 was extremly challenging, I will definitely have to go over this content again. Also refactor code along, I got most of them right however I need to improve my knowledge of rest and spread operators. 
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
+### --- Day 118 Friday 13th July, 2018 --- ###
+
+**Today's Progress**: Started and completed section 14, code along single page todo list with express, mongo and jQuery. - 6 hours of coding.
+ 
+**Thoughts**: I really enjoyed this project, cemented some ideas i had before and answered a few questions I had about node and express. Also the mongoDb experience is always welcomed.
+
+**Link to work:** 
+1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+
+
 ### --- Day 117 Thursday 12th July, 2018 --- ###
 
-**Today's Progress**: Started and completed module 12 which is working on the node aspect of React preperation. 5 hours of study and coding  
+**Today's Progress**: Started and completed module 13 which is working on the node aspect of React preperation material. 5 hours of study and coding. - 5 hours of coding and study
  
-**Thoughts**: 
+**Thoughts**: Much of this stuff was refresher content from my original colt udemy course and was great to cement the knowledge of express further. I dont think I will ever completly remember how and what to put into node / express so am happy to review and do code alongs to further my knowledge in this area and confirm some ideas I have of the framewworks.
 
 **Link to work:** 
 1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
