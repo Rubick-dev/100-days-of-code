@@ -13,9 +13,9 @@
 
 ### --- Day 120 Sunday 15th July, 2018 --- ###
 
-**Today's Progress**:
+**Today's Progress**: Completed two sections of the vcourse, 17 and 18 which was es2015 part II and ES2016 and ES 2017. - 8 hours of coding.
  
-**Thoughts**: 
+**Thoughts**: Es2015 is definitely a huge ammount to take in. I really enjoyed it and the presentation from Elie is fantastic. Lots of termionology used which is good for preparing for work. The Async functions of ES2017 seems to be a game changer.
 
 **Link to work:** 
 1. [Udemy - Colt Steele Advanced Web development](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
